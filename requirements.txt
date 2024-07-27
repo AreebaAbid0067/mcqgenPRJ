@@ -1,0 +1,6 @@
+openai package
+langchain
+streamlit
+
+python-dotenv
+PyPDF2
