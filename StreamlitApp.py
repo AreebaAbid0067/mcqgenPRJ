@@ -11,7 +11,7 @@ from src.mcqgenerator.logger import logging
 
 
 #loading json file
-with open("F:\mcqgenPRJ\Response.json",'r') as file:
+with open("F:/mcqgenPRJ/Response.json",'r') as file:
     RESPONSE_JSON = json.load(file)
 
 
